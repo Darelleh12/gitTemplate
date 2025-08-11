@@ -1,7 +1,6 @@
 # Skin Disease Diagnosis Using Computer Vision
 
 Which supervised learning model (e.g., CNN, ResNet, Vision Transformer, or EfficientNet) provides the most accurate classification of skin lesions using dermatoscopic images, and how does including patient metadata (such as age, sex, and lesion location) affect model performance?
-*Uncovered and meticulously analyzed three distinct biases present in ChatGPT, employing advanced Python techniques and data analysis methodologies, all within AI4ALL's cutting-edge AI4ALL Ignite accelerator.*
 
 
 ## Problem Statement <!--- do not change this line -->
