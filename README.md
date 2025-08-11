@@ -1,5 +1,4 @@
-# (UPDATE IN README.md) Project Title
-
+# Skin Disease Diagnosis Using Computer Vision
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
 
